@@ -13,7 +13,7 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="p-7 flex items-center gap-2">
+    <div className="flex items-center gap-2 p-7">
       <Input
         placeholder="Pesquise por Flows..."
         className="max-w-[282px] border-gray-300 bg-white px-4 py-2.5 text-sm outline-none"
